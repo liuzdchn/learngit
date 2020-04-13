@@ -3,4 +3,4 @@ Git is free sofeware distributed under the GPL.
 
 stage
 
-Git tracks changes
+Git tracks changes of files .
