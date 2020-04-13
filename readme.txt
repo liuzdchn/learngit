@@ -11,4 +11,4 @@ fast forward test
 
 forbidden fast forward .
 
-is free
+is free  fixed
